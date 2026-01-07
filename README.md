@@ -24,3 +24,8 @@
     ```bash
     python main.py <您的缓存目录路径> -o <输出目录名>
     ```
+
+3. 如果需要AI提取歌名和歌手，可以添加`--ai`参数
+    ```bash
+    python main.py --ai
+    ```
